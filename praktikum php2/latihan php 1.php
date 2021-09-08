@@ -13,5 +13,5 @@ echo "perkalian ".$angka_a." * ".$angka_b." = ".$kali." <br>";
 echo "pembagian ".$angka_a." / ".$angka_b." = ".$bagi." <br>";
 echo "penjumlahan ".$angka_a." + ".$angka_b." = ".$tambah." <br>";
 echo "pengurangan ".$angka_a." - ".$angka_b." = ".$kurang." <br>";
-echo "modulus atau sisa hasil bagi ".$angka_a." / ".$ngka_b." = ".$mod." <br>";
+echo "modulus atau sisa hasil bagi ".$angka_a." / ".$angka_b." = ".$mod." <br>";
 ?>
