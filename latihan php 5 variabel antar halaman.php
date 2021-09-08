@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Variabel antar Halaman</titel>
+        <title>Variabel antar Halaman</title>
     </head>
     <body>
         <form action="variabel_hasil.php" method="post">
