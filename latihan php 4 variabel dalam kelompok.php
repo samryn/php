@@ -1,6 +1,6 @@
 <?php
 $nama="Hisyam";
-functional tampil_nama(){
+function tampil_nama(){
     global $nama;
     echo "Nama Saya:".$nama;
 }
